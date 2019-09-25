@@ -10,7 +10,10 @@
 
 ## 北京大学- “牙周病辅助诊疗系统” 合作项目
 >项目关键词: 大数据、机器学习、信息系统、Web 项目
+
 [项目Web部分内容链接](https://github.com/XinyaoTian/dentist_demo)
+
+[项目交付演示文稿下载](https://github.com/XinyaoTian/project_introduction/blob/master/ppt/pku_dentist/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E8%B7%B5%E8%AF%BE%E7%A8%8B%E5%B1%95%E7%A4%BA%E7%89%99%E5%91%A8%E7%97%85%E6%B2%BB%E7%96%97%E6%96%B9%E6%A1%88%E7%96%97%E6%95%88%E9%A2%84%E6%B5%8B.pptx?raw=true)
 
 ### 项目简介
 
@@ -40,7 +43,9 @@
 
 ## 清华大学-数据科学研究院 “ 2018 年度顶级数据团队建设全景报告” 合作项目
 >项目关键词: 数据分析、网络数据抓取、数据可视化
+
 [合作媒体发布-大数据文摘](https://mp.weixin.qq.com/s/FSgPY1Q0qBtL8bJQ1GYb-A)
+
 [“清华2018顶级数据团队建设全景报告-摘要版”  附“精华版”下载链接](https://t.cj.sina.com.cn/articles/view/6105753431/16bee675701900bt98)
 
 ps: 也可谷歌或百度搜索“2018 年度顶级数据团队建设全景报告”，数十家科技媒体争先报道。
